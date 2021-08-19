@@ -6,7 +6,7 @@ else:
     print('not close')
     
 #output:
-#Enter the number: 5.001
-#Enter the number: 5.000
+#Enter the number: 0.005
+#Enter the number: 0.004
 # close
    
